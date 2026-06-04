@@ -1,1 +1,3 @@
-preprocessing/wadai_preprocessing/*.npy
+preprocessing/wadai_preprocessing/X_train.npy
+preprocessing/wadai_preprocessing/X_val.npy
+preprocessing/wadai_preprocessing/wadai_preprocessing.npz
